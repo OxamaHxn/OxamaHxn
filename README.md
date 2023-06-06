@@ -24,6 +24,8 @@ I'm continuously seeking new opportunities to contribute my skills and expertise
 
 You can contact me via [mention preferred contact method]. Let's connect and create something amazing together!
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
+
 ## 🧑🏻‍💻 Language & Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  alt="React" height="35" width="35"/>
