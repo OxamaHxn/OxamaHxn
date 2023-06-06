@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name] 👋
+## Hi, I'm Usama 👋
 
 I'm a results-driven software developer with over 2 years of experience specializing in React Native, Node.js, and Express. I'm passionate about creating exceptional mobile and web applications that provide seamless user experiences.
 
@@ -12,17 +12,17 @@ I'm a results-driven software developer with over 2 years of experience speciali
 
 Over the course of my career, I have successfully delivered more than 15 projects, showcasing my versatility and ability to adapt to different project requirements. Some of my notable projects include:
 
-- [Project 1]: Developed a feature-rich e-commerce mobile app using React Native, integrating payment gateways, product catalogs, and user authentication. Implemented smooth navigation, optimized performance, and ensured a delightful shopping experience.
+<!-- - [Project 1]: Developed a feature-rich e-commerce mobile app using React Native, integrating payment gateways, product catalogs, and user authentication. Implemented smooth navigation, optimized performance, and ensured a delightful shopping experience.
 
 - [Project 2]: Built a real-time chat application using React Native and Node.js, allowing users to engage in instant messaging with individual or group conversations. Implemented end-to-end encryption for secure communication and integrated push notifications for timely updates.
 
 - [Project 3]: Created a web-based dashboard using React Native and Express, providing administrators with real-time analytics, user management functionalities, and data visualization. Ensured responsiveness and a user-friendly interface for seamless data exploration.
-
+ -->
 ## Let's Connect
 
 I'm continuously seeking new opportunities to contribute my skills and expertise to exciting projects. If you'd like to collaborate, discuss potential opportunities, or have any questions, please feel free to reach out to me.
 
-You can contact me via [mention preferred contact method]. Let's connect and create something amazing together!
+<!-- You can contact me via [mention preferred contact method]. Let's connect and create something amazing together! -->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
 
