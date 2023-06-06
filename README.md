@@ -47,6 +47,14 @@ You can contact me via [mention preferred contact method]. Let's connect and cre
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  alt="Swift" height="35" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  alt="Trello" height="35" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" height="35" width="35" />
-          
-  
 </p>
+
+<br>
+<br>
+<br>
+<br>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OxamaHxn.OxamaHxn&left_color=green&right_color=red)
+
+
