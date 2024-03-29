@@ -6,11 +6,10 @@ I'm a results-driven software developer with over 2 years of experience speciali
 
 - **React Native**: I have in-depth knowledge and hands-on experience in developing cross-platform mobile applications using React Native. I leverage the power of React Native to build intuitive and performant user interfaces that run smoothly on both iOS and Android platforms.
 
-- **Node.js and Express**: I'm proficient in building scalable and robust server-side applications using Node.js and Express. I have a strong understanding of asynchronous programming, RESTful API development, and database integration.
 
 ## Projects and Experience
 
-Over the course of my career, I have successfully delivered more than 15 projects, showcasing my versatility and ability to adapt to different project requirements. Some of my notable projects include:
+Over the course of my career, I have successfully delivered more than 15 projects, showcasing my versatility and ability to adapt to different project requirements
 
 <!-- - [Project 1]: Developed a feature-rich e-commerce mobile app using React Native, integrating payment gateways, product catalogs, and user authentication. Implemented smooth navigation, optimized performance, and ensured a delightful shopping experience.
 
