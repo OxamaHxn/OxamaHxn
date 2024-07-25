@@ -1,6 +1,6 @@
 ## Hi, I'm Usama 👋
 
-I'm a results-driven software developer with over 3 years of experience specializing in React Native, Node.js, and Express. I'm passionate about creating exceptional mobile and web applications that provide seamless user experiences.
+I'm a results-driven software developer with over 3+ years of experience specializing in React Native, Node.js, and Express. I'm passionate about creating exceptional mobile and web applications that provide seamless user experiences.
 
 ## Expertise
 
