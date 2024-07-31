@@ -9,7 +9,7 @@ I'm a results-driven software developer with over 3+ years of experience special
 
 ## Projects and Experience
 
-Over the course of my career, I have successfully delivered more than 15 projects, showcasing my versatility and ability to adapt to different project requirements
+Over the course of my career, I have successfully delivered more than 10 projects, showcasing my versatility and ability to adapt to different project requirements
 
 <!-- - [Project 1]: Developed a feature-rich e-commerce mobile app using React Native, integrating payment gateways, product catalogs, and user authentication. Implemented smooth navigation, optimized performance, and ensured a delightful shopping experience.
 
